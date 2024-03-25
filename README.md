@@ -1,5 +1,6 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
+<h1 align="center" style="margin-bottom: 100px;">
+  <b>Olá Mundo, Sejam Bem-Vindos, Prazer, sou Thiago! 👋</b>
+</h1>
 
 
 <p align="center">Aos 20 anos, sou um <strong>entusiasta</strong> de <strong>tecnologia</strong> que sempre esteve à frente do meu tempo.❤️. <br><br>Desde a <strong>infância</strong>, minha <strong>curiosidade</strong> me levou a explorar o universo <strong>tecnológico</strong>. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, uma escolha motivada pela minha <strong>paixão</strong> e <strong>curiosidade</strong> pela <strong>tecnologia</strong>. Antes mesmo de ingressar na faculdade, iniciei minha jornada de aprendizado no <strong>YouTube</strong> e logo após em <strong>cursos pagos</strong>, onde descobri minha verdadeira <strong>vocação</strong>. Foi durante esse curso que iniciei minha jornada acadêmica na faculdade. Agora, estou em busca de oportunidades de <strong>estágio</strong> para aprimorar minhas <strong>habilidades</strong> e <strong>experiências</strong>. A <strong>tecnologia</strong> é minha <strong>paixão</strong> e é nela que quero construir minha <strong>carreira</strong>.</p>&nbsp;
